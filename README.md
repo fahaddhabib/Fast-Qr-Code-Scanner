@@ -25,6 +25,12 @@ You can easily share the information about your business, website, Text, Email, 
 - **Front/Rear Camera:** Switch between front and rear camera for scanning.
 - **Offline Use:** Works without an internet connection.
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="feature1.jpg" alt="Feature 1" width="200">
+    <img src="feature2.jpg" alt="Feature 2" width="200">
+    <img src="feature3.jpg" alt="Feature 3" width="200">
+</div>
+
 ## Technologies Used
 
 - **MVVM Architecture:** For robust and scalable app structure.
