@@ -1,4 +1,4 @@
-![App Logo]([logo.png](https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/logo.png))
+![App Logo](https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/logo.png)
 
 # QR & Barcode Scanner and Generator
 
