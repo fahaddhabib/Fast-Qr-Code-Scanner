@@ -1,4 +1,5 @@
 ![App Logo](https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/logo.png)
+[![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=one.psycho.qrbar)
 
 # QR & Barcode Scanner and Generator
 
@@ -34,15 +35,6 @@ You can easily share the information about your business, website, Text, Email, 
 - **Kotlin Programming Language:** For Android app development.
 - **Firebase Analytics:** For tracking user interactions and app usage metrics.
 - **Crashlytics:** For real-time crash reporting and error monitoring.
-
-## Installation Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/qr-barcode-scanner.git
-
-    Open the project in Android Studio.
-    Build and run the project on your Android device or emulator.
 
 Usage Instructions
 QR Code/Barcode Scanner:
@@ -85,5 +77,5 @@ Contact Information
 
 For any questions, issues, or suggestions, please contact:
 
-    Email: support@example.com
+    Email: psychocreativesllc@gmail.com
     GitHub Issues: GitHub Issues
