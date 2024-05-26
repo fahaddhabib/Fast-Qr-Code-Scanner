@@ -61,13 +61,13 @@ QR Code Generator:
 
 Screenshots
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/1.jpg" alt="Screenshot 1" style="width: 10%;">
-    <img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/2.jpg" alt="Screenshot 1" style="width: 10%;">
-    <img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/3.jpg" alt="Screenshot 1" style="width: 10%;">
-    <img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/4.jpg" alt="Screenshot 1" style="width: 10%;">
-    <img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/5.jpg" alt="Screenshot 1" style="width: 10%;">
-    <img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/6.jpg" alt="Screenshot 1" style="width: 10%;">
-    <img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/7.jpg" alt="Screenshot 1" style="width: 10%;">
+    <img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/1.jpg" alt="Screenshot 1" style="width: 20%;">
+    <img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/2.jpg" alt="Screenshot 1" style="width: 20%;">
+    <img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/3.jpg" alt="Screenshot 1" style="width: 20%;">
+    <img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/4.jpg" alt="Screenshot 1" style="width: 20%;">
+    <img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/5.jpg" alt="Screenshot 1" style="width: 20%;">
+    <img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/6.jpg" alt="Screenshot 1" style="width: 20%;">
+    <img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/7.jpg" alt="Screenshot 1" style="width: 20%;">
 
 </div>
 Contributing Guidelines
