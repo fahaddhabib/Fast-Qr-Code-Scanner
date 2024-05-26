@@ -1,9 +1,10 @@
-![App Logo](https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/logo.png)
+<img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/logo.png" alt="App Logo" width="200">
+
 [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=one.psycho.qrbar)
 
 # QR & Barcode Scanner and Generator
 
-![App Banner](https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/banner.png)
+<img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/banner.png" alt="App Banner" width="600">
 
 ## Description
 
