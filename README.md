@@ -27,8 +27,8 @@ You can easily share the information about your business, website, Text, Email, 
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/feature1.jpg" alt="Feature 1" width="200">
-    <img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/feature1.jpg" alt="Feature 2" width="200">
-    <img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/feature1.jpg" alt="Feature 3" width="200">
+    <img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/feature2.jpg" alt="Feature 2" width="200">
+    <img src="https://github.com/fahaddhabib/Fast-Qr-Code-Scanner/blob/main/assets/feature3.jpg" alt="Feature 3" width="200">
 </div>
 
 ## Technologies Used
